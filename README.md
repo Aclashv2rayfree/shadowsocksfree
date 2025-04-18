@@ -4,9 +4,9 @@
 
 ### 付费VPN
 
-* [快速翻墙](https://xgogo.sbs/#/register?code=wxADDy87) 
+* [快速翻墙](https://uhuio.top) 
 
-* [点击进入机场](https://xgogo.sbs/#/register?code=wxADDy87) 
+* [点击进入机场](https://uhuio.top) 
 
 * 极速访问：直达全球内容，无任何卡顿。
 
@@ -15,6 +15,8 @@
 * 全世界畅游：提供多种服务器选择，确保最佳网络体验。
 
 * 24/7 客服：任何问题随时联系我们，我们有专人解答。
+
+## <font color='red'>为了避免节点更新后失联，建议您为我们提供一个免费的 Star，以确保后续能顺利联系。为防止恶意使用，影响大家使用。公共节点，只是作为一个入口，需要每天更换。</font>
 
 ### 高速免费节点
 
@@ -38,4 +40,4 @@ vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtMTM5LjE2Mi43NS4xMTMiLCJhZGQiOiIxMzkuMTYy
 
 [分享免费vpn](https://github.com/asdsadsddas123/freevpn) 
 
-更新时间 2025-04-18 08:10:00
+更新时间 2025-04-18 08:13:06
