@@ -22,13 +22,13 @@
 免费节点
 
 ```
-trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?type=ws&sni=DDd.890604.FIlEGear-sG.Me&allowInsecure=1&path=/mZr1mA5hub7QHHkQBzYO#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_2
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.14.85:8080?security=none&type=ws&sni=IO.IhJtq0hklC.ZULAiR.OrG.&host=IO.IhJtq0hklC.ZULAiR.OrG.&encryption=none&type=ws&path=%2F&sni=IO.IhJtq0hklC.ZULAiR.OrG.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_2
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@172.67.73.163:8080?security=none&type=ws&host=IO.IhJtq0hklC.ZULAiR.OrG.&encryption=none&type=ws&path=%2F&sni=IO.IhJtq0hklC.ZULAiR.OrG.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A7%F0%9F%87%AA_BE_%E6%AF%94%E5%88%A9%E6%97%B6
-trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443?type=ws&sni=SxcDe3.859886.XYz&path=/COp52Dbu3dvwvDWUxOqxq&host=sxcde3.859886.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_3
-vless://a86ce4c7-b5a4-42ef-9402-3053d1fa313a@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&sni=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_3
+trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?type=ws&sni=ddcDe.890603.XYz&path=/COp52Dbu3dvwvDWUxOqxq&host=ddcde.890603.xyz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_1
+trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@172.67.135.37:443?type=ws&sni=cCtv4.459.pp.uA&path=/HpYP4foAlpTKtfYnjLYhU30U&host=cctv4.459.pp.ua#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
+vmess://eyJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8zIiwiYWRkIjoiY2RuMi5icGNkbi5jYyIsImFpZCI6MCwiaWQiOiIxYmYzMWFkNS1jYmQ0LTRjMTAtYTgzMi04MWNlNGE5ZWU2YzAiLCJuZXQiOiJ3cyIsInNjeSI6ImF1dG8iLCJwb3J0Ijo4MCwidGxzIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoidGsxLmJrNWpoNHQ2dy5qaWVzazRwZHFjcWpvMTZqLnh5eiIsInNuaSI6InRrMS5iazVqaDR0Nncuamllc2s0cGRxY3FqbzE2ai54eXoifQ==
+vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?security=none&type=ws&host=18.6na7PY43IT.zuLaiR.Org.&encryption=none&type=ws&path=%2F&sni=18.6na7PY43IT.zuLaiR.Org.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_6
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?type=ws&sni=DDd.890604.FIlEGear-sG.Me&allowInsecure=1&path=/mZr1mA5hub7QHHkQBzYO#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_3
+vless://a86ce4c7-b5a4-42ef-9402-3053d1fa313a@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&encryption=none&type=ws&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&sni=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_7
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#2%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&path=fp=chrome&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%204.1MB/s%7C36%25%7COpenai
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@www.speedtest.net:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#2%7C%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%201.3MB/s%7C0%25%7COpenai
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%204.6MB/s%7CDisney%7COpenai
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?allowInsecure=1&sni=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=madcity2.777999.lol&path=/?ed=2560fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%202.0MB/s%7C0%25%7CNetflix%7CDis...
@@ -63,10 +63,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.20:8880?allowInsecure=1&sn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.118.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CRO_speednode_0080
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CRU_speednode_0083
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CRU_speednode_0084
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.93:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CRU_speednode_0085
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@46.254.93.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/#14%7CRU_speednode_0086
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.88:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CRU_speednode_0087
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#14%7CRU_speednode_0089
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CSC_speednode_0090
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CSI_speednode_0095
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CUS_speednode_0098
@@ -91,4 +89,4 @@ vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.45.6:8080?allowInsecure=0&s
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-01 01:17:00 
+### 更新时间 2025-06-01 01:23:07 
