@@ -22,10 +22,7 @@
 免费节点
 
 ```
-vless://2f3e929e-fe8c-44d5-b96b-6ec0e4b5e569@104.17.148.22:2082?allowInsecure=1&sni=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#1%7C%F0%9F%87%A9%F0%9F%87%AA3%20%7C%20%202.6MB/s%7C20%25%7COpenai
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.85.23.254:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CCZ_speednode_0011
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.102:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/#15%7CGB_speednode_0029
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.145:80?allowInsecure=1&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0076
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.245:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#15%7CGB_speednode_0027
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -33,4 +30,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.145:80?allowInsecure=1&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 07:17:00 
+### 更新时间 2025-06-03 07:20:54 
