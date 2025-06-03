@@ -22,8 +22,7 @@
 免费节点
 
 ```
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.184:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#15%7CGB_speednode_0024
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CSI_speednode_0057
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.238.228.39:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CES_speednode_0020
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -31,4 +30,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=1&s
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 16:17:00 
+### 更新时间 2025-06-03 16:21:30 
