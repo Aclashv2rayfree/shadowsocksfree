@@ -22,6 +22,10 @@
 免费节点
 
 ```
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CCR_speednode_0009
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.238.228.39:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#14%7CES_speednode_0021
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.65:8880?allowInsecure=1&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#14%7CGB_speednode_0031
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CUS_speednode_0079
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -29,4 +33,4 @@
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 10:17:00 
+### 更新时间 2025-06-03 10:21:40 
