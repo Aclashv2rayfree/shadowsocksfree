@@ -22,9 +22,7 @@
 免费节点
 
 ```
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=chrome&security=tls#3%7C%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%204.6MB/s%7CDisney%7COpenai
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.56:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0052
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.88:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CRU_speednode_0055
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.184:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#15%7CGB_speednode_0024
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#15%7CSI_speednode_0057
 ```
 分享免费VPN
@@ -33,4 +31,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=1&s
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 14:47:00 
+### 更新时间 2025-06-03 14:51:33 
