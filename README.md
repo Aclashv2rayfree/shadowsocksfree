@@ -22,10 +22,7 @@
 免费节点
 
 ```
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CCR_speednode_0009
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.238.228.39:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#14%7CES_speednode_0021
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.65:8880?allowInsecure=1&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#14%7CGB_speednode_0031
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CUS_speednode_0079
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.11:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B847%20%7C%20%201.0MB/s%7C0%25%7CDisney%7COpen...
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -33,4 +30,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880?allowInsecure=0&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 11:47:00 
+### 更新时间 2025-06-03 11:51:30 
