@@ -70,11 +70,12 @@ hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#12%7CCh
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@52.79.86.24:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc=@156.251.179.79:41174#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjIiLCAicG9ydCI6IDIwMzMyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODAzN2NlMDAtYzg2MC00MjEzLWI4ODgtYmU1YzdlZDZlYTQ4In0=
+ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF9%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MGE5MzBjMTdmZjA=@43.226.17.11:33604#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.142:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CGB_speednode_0009
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.76.218.163:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram @pgkj666 /?ed=2560security=tls#15%7CHK_speednode_0010
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@150.66.0.85:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CJP_speednode_0012
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.85.55.59:19842?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CJP_speednode_0013
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?allowInsecure=1&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳 @pgkj666 /?ed=2560security=tls#15%7CJP_speednode_0014
 vless://0783b1b9-5d8b-4d03-adc3-b050acc71a29@168.138.181.208:443?allowInsecure=1&sni=sgp.rtot.me&type=ws&host=sgp.rtot.me&path=/bingfp=chrome&security=tls#15%7CSG_speednode_0019
 vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?allowInsecure=0&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&path=/ws/?ed=2048#15%7CUS_speednode_0056
@@ -90,4 +91,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.85.15:34045?allowInsecure=0&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-12 06:57:00 
+### 更新时间 2025-06-12 06:59:53 
