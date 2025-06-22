@@ -25,10 +25,8 @@
 
 ```
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://VdWBGFmg@36.151.251.62:23770?type=tcp&security=tls&sni=TG.WangCai2&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9-%3E%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8_IS_%E5%86%B0%E5%B2%9B
-vless://adeee029-e9b5-4312-8d00-71be8d86a7d3@37.32.41.184:1010?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFczSUt6aW1nYmFCYTBqRUx2UDdS@62.133.60.217:34218#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
@@ -188,4 +186,4 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@102.132.188.251:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-22 12:48:00 
+### 更新时间 2025-06-22 12:50:19 
