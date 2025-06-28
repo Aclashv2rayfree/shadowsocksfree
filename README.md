@@ -90,4 +90,4 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@195.13.45.13:8880?allowInsecure=0&s
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@209.94.90.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0246
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@144.202.114.28:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#US_speednode_0247
 ```
-Update time 2025-06-28 05:25:55
+Update time 2025-06-28 05:26:00
